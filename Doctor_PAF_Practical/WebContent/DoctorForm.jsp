@@ -18,7 +18,7 @@
     	
 	<section id="contact">
             <div class="container">
-                <h1 style="color:black;">Doctor Management</h1>
+                <h1 style="color:black;">Doctor Register Form</h1>
                 <div class="row">
                     <div class="col-md-6" style="margin-top: 50px;">
                             <div class="img">
