@@ -92,7 +92,7 @@
                                 </div>
                                  <div class="form-group" style="width: 510px; margin-left: 15px;background-color:none">
                                       <label for="From">Enter Password :</label>
-                                     <input id = "docPassword" style="background-color:transparent" name = "docPassword" type="password" class="form-control" placeholder="Password"  required>
+                                     <input id = "docPassword" style="background-color:none ;" name = "docPassword" type="password" class="form-control" placeholder="Password" required>
                                 </div>           
                             
                                  <div class="form-group" style="width: 510px; margin-left: 15px;">
