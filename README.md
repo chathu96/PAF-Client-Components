@@ -6,3 +6,6 @@ RESTful web service: Java – JAX-RS (Jersey) on Tomcat
  View: HTML, CSS, Bootstrap (optional), Form and Grid UI design pattern 
 
  Client-components: jQuery, Ajax for DC. 
+
+
+![alt_text](images/1.png)
