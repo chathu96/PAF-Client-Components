@@ -8,4 +8,4 @@ RESTful web service: Java – JAX-RS (Jersey) on Tomcat
  Client-components: jQuery, Ajax for DC. 
 
 
-![Optional Text](../master/img/doctor.png)
+
