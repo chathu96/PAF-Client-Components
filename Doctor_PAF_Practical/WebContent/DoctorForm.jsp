@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Register Form</title>
+	<title>Doctor Register Form</title>
 	<link rel="stylesheet" type="text/css" href="Register.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="Views/bootstrap.min.css">
