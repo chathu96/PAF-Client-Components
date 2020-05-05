@@ -22,7 +22,7 @@
 .container h1:after
 {
     content: '';
-    background:#ffffff;
+    background:#ff0000;
     display: block;
     height: 5px;
     width: 100px;

@@ -14,11 +14,11 @@
     
 </head>
 <body>
-	<img class="wave" src="img/wave.png">
+	<img class="wave" src="img/medical1.jpg" style="width:100%;height:100%;">
     	
 	<section id="contact">
             <div class="container">
-                <h1>Doctor Management</h1>
+                <h1 style="color:black;">Doctor Management</h1>
                 <div class="row">
                     <div class="col-md-6" style="margin-top: 50px;">
                             <div class="img">
@@ -80,7 +80,7 @@
                                                 <option >Royal Hospital</option>
                                      </select>
                                 </div> 
-                                <div class="form-group" style="width: 510px; margin-left: 15px;">
+                                <div class="form-group" style="width: 510px; margin-left: 15px; background-color:none">
                                         <label for="From" style="margin-top: 8px;">Number of appointments:</label><br>
                                         <select id = "docNumAppointments" name = "docNumAppointments" class="btn btn-outline-success btn-lg dropdown-toggle dropdown-toggle-split" style="width: 100%;" required>
                                                 <option value="0">--Select Appointments--</option>
@@ -90,9 +90,9 @@
                                                 <option >15</option>
                                         </select>
                                 </div>
-                                 <div class="form-group" style="width: 510px; margin-left: 15px;">
+                                 <div class="form-group" style="width: 510px; margin-left: 15px;background-color:none">
                                       <label for="From">Enter Password :</label>
-                                     <input id = "docPassword" name = "docPassword" type="password" class="form-control" placeholder="Password" required>
+                                     <input id = "docPassword" style="background-color:transparent" name = "docPassword" type="password" class="form-control" placeholder="Password"  required>
                                 </div>           
                             
                                  <div class="form-group" style="width: 510px; margin-left: 15px;">
