@@ -65,7 +65,7 @@ public class DoctorAPI extends HttpServlet {
 												paras.get("docEmail").toString(),
 												paras.get("docContact").toString(),
 												paras.get("docFee").toString(), 
-												paras.get("docHospital").toString(), 
+												paras.get("docHospital").toString().replace("+", " ").replace("%2C", ",").replace("%3A", ":"), 
 												paras.get("docNumAppointments").toString(), 
 												paras.get("docPassword").toString()); 												
 		response.getWriter().write(output);
