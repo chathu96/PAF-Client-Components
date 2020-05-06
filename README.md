@@ -13,5 +13,5 @@ RESTful web service: Java – JAX-RS (Jersey) on Tomcat
 
 ![screenshot1](https://user-images.githubusercontent.com/38854262/81155174-4b5bc200-8fa2-11ea-823f-bd3cdeff1513.png)
 
-![screenshot2](https://user-images.githubusercontent.com/38854262/81155413-8958e600-8fa2-11ea-9035-f64f11fe7130.png)
+![screenshot2](https://user-images.githubusercontent.com/38854262/81176565-ed8ba200-8fc2-11ea-8290-1eab2b75bc10.png)
 
