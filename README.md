@@ -1,4 +1,11 @@
 # PAF-Client-Components
+
+IT No : IT18087048
+
+Name : Jayaprada A B C
+
+Batch : Y3S1.02(IT)-WE
+
 RESTful web service: Java – JAX-RS (Jersey) on Tomcat
 
  DB: MySQL 
@@ -7,13 +14,15 @@ RESTful web service: Java – JAX-RS (Jersey) on Tomcat
 
  Client-components: jQuery, Ajax for DC. 
 
-Validation : Regex
+ Validation : Regex
 
 
 
 ![screenshot1](https://user-images.githubusercontent.com/38854262/81155174-4b5bc200-8fa2-11ea-823f-bd3cdeff1513.png)
 
 ![screenshot2](https://user-images.githubusercontent.com/38854262/81176565-ed8ba200-8fc2-11ea-8290-1eab2b75bc10.png)
+
+![Screenshot14](https://user-images.githubusercontent.com/38854262/81184133-a820a200-8fcd-11ea-8809-2a3a78df80a3.png)
 
 ![screenshot13](https://user-images.githubusercontent.com/38854262/81179943-05195980-8fc8-11ea-988c-b2a8aa2f5678.png)
 
