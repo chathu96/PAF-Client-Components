@@ -1,13 +1,13 @@
 # PAF-Client-Components
-##RESTful web service: Java – JAX-RS (Jersey) on Tomcat
+RESTful web service: Java – JAX-RS (Jersey) on Tomcat
 
-- DB: MySQL 
+ DB: MySQL 
 
-- View: HTML, CSS, Bootstrap (optional), Form and Grid UI design pattern 
+ View: HTML, CSS, Bootstrap (optional), Form and Grid UI design pattern 
 
-- Client-components: jQuery, Ajax for DC. 
+ Client-components: jQuery, Ajax for DC. 
 
--Validation : Regex
+Validation : Regex
 
 
 
