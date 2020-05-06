@@ -30,48 +30,20 @@
                                 <h1 style=" text-align: center; margin-top: 30px;color: green;font-family: 'Poppins', sans-serif;">Doctor Register Form</h1>                               
                                 <div class="form-group" style="width: 510px; margin-left: 15px;">
                                      <label for="From" style="">Enter NIC No :</label>
-                                     <input id="docNic" style="width: 500px;
-margine-top: 20px;
-background: transparent;
-outline: none;
-padding: 20px;
-font-size: 13px;
-border-radius: 30px;
-box-shadow:0 0 10px #228B22;" name="docNic" type="text" class="form-control" placeholder="NIC No" required> 
+                                     <input id="docNic" style="width: 500px;margine-top: 20px;background: transparent;outline: none;padding: 20px;font-size: 13px;border-radius: 30px;box-shadow:0 0 10px #228B22;" name="docNic" type="text" class="form-control" placeholder="NIC No" required> 
                                 </div> 
                                 <div class="form-group" style="width: 510px; margin-left: 15px;">
                                      <label for="From"> Enter Name :</label>
-                                     <input id="docName" style="width: 500px;
-margine-top: 20px;
-background: transparent;
-outline: none;
-padding: 20px;
-font-size: 13px;
-border-radius: 30px;
-box-shadow:0 0 10px #228B22;" name="docName"  type="text" class="form-control" placeholder="Username" required>
+                                     <input id="docName" style="width: 500px;margine-top: 20px;background: transparent;outline: none;padding: 20px;font-size: 13px;border-radius: 30px;box-shadow:0 0 10px #228B22;" name="docName"  type="text" class="form-control" placeholder="Username" required>
                                 </div>    
                                  
                                  <div class="form-group" style="width: 510px; margin-left: 15px;">
                                       <label for="From">Enter Email :</label>
-                                     <input id="docEmail" style="width: 500px;
-margine-top: 20px;
-background: transparent;
-outline: none;
-padding: 20px;
-font-size: 13px;
-border-radius: 30px;
-box-shadow:0 0 10px #228B22;" name="docEmail" type="Email" class="form-control" placeholder="Email" required>
+                                     <input id="docEmail" style="width: 500px;margine-top: 20px;background: transparent;outline: none;padding: 20px;font-size: 13px;border-radius: 30px;box-shadow:0 0 10px #228B22;" name="docEmail" type="Email" class="form-control" placeholder="Email" required>
                                 </div> 
                                 <div class="form-group" style="width: 510px; margin-left: 15px;">
                                       <label for="From">Enter Contact No :</label>
-                                     <input id="docContact" style="width: 500px;
-margine-top: 20px;
-background: transparent;
-outline: none;
-padding: 20px;
-font-size: 13px;
-border-radius: 30px;
-box-shadow:0 0 10px #228B22;" name="docContact" type="text" class="form-control" placeholder="Contact No" required>
+                                     <input id="docContact" style="width: 500px;margine-top: 20px;background: transparent;outline: none;padding: 20px;font-size: 13px;border-radius: 30px;box-shadow:0 0 10px #228B22;" name="docContact" type="text" class="form-control" placeholder="Contact No" required>
                                 </div>
                             
                                  <div class="form-group" style="width: 510px; margin-left: 15px;">
@@ -84,14 +56,7 @@ box-shadow:0 0 10px #228B22;" name="docContact" type="text" class="form-control"
                                 </div>  
                                 <div class="form-group" style="width: 510px; margin-left: 15px;">
                                       <label for="From">Enter Appointment Fee :</label>
-                                     <input id="docFee" style="width: 500px;
-margine-top: 20px;
-background: transparent;
-outline: none;
-padding: 20px;
-font-size: 13px;
-border-radius: 30px;
-box-shadow:0 0 10px #228B22;" name="docFee" type="text" class="form-control" placeholder="Appointment Fee" required>
+                                     <input id="docFee" style="width: 500px;margine-top: 20px;background: transparent;outline: none;padding: 20px;font-size: 13px;border-radius: 30px;box-shadow:0 0 10px #228B22;" name="docFee" type="text" class="form-control" placeholder="Appointment Fee" required>
                                 </div>
                                 <div class="form-group" style="width: 510px; margin-left: 15px;">
                                      <label for="From">Select Specification :</label><br>
@@ -126,14 +91,7 @@ box-shadow:0 0 10px #228B22;" name="docFee" type="text" class="form-control" pla
                                 </div>
                                  <div class="form-group" style="width: 510px; margin-left: 15px;background-color:none">
                                       <label for="From">Enter Password :</label>
-                                     <input id = "docPassword" style="width: 500px;
-margine-top: 20px;
-background: transparent;
-outline: none;
-padding: 20px;
-font-size: 13px;
-border-radius: 30px;
-box-shadow:0 0 10px #228B22;" style="background-color:none ;" name = "docPassword" type="password" class="form-control" placeholder="Password" required>
+                                     <input id = "docPassword" style="width: 500px;margine-top: 20px;background: transparent;outline: none;padding: 20px;font-size: 13px;border-radius: 30px;box-shadow:0 0 10px #228B22;" style="background-color:none ;" name = "docPassword" type="password" class="form-control" placeholder="Password" required>
                                 </div>           
                             
                                  <div class="form-group" style="width: 510px; margin-left: 15px;">
